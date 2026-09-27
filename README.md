@@ -1,3 +1,4 @@
+[ DEPRICATED ]
 # imageSplit API
 an open source API that allows you to convert strings of ID's like `1-1-1-1`
 
